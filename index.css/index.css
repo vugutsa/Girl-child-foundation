@@ -1,5 +1,5 @@
 p{
-    color: blue;
+    color: black;
     text-align: center;
 }
 body, html{
@@ -8,4 +8,15 @@ body, html{
 }
 h2 {
     color: rgb(23, 23, 206)
+}
+body h3{
+    background-image: url(https://bit.ly/3inWFrL);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+Body h2 p{
+    color: black;
+}
+body h4{
+    font-size-adjust: 100px;
 }
