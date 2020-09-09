@@ -20,9 +20,16 @@ body h4{
     font-size-adjust: 100px;
 }
 body h4{
-    background-image: url(https://bit.ly/3mai7Tp);
+    background-image: url(https://bit.ly/3m4Kl1t);
     background-repeat: no-repeat;
 }
 body {
-    background-color: coral;
+    background-color: rgb(104, 0, 90)
+}
+body h5{
+    background-image: url(https://bit.ly/33cuKo2);
+    background-repeat: no-repeat;
+}
+.navigation{
+    text-justify: auto;
 }
