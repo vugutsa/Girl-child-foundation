@@ -30,4 +30,8 @@ body {
 .navigation{
     text-justify: auto;
 }
+body h5{
+    background-image: url(./images/portrait-african-girl-writing-notebook);
+    background-repeat: no-repeat;
+}
 
