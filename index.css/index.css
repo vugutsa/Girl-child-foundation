@@ -35,7 +35,11 @@ ul{
     display: flex;
     list-style-type: none;
 }
-#about{
-    background-color: rgb(134, 150, 180);
+h6{
+    font-weight: lighter;
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 0;
 }
-g
