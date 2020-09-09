@@ -20,15 +20,8 @@ Body h2 p{
 body h4{
     font-size-adjust: 100px;
 }
-body h4{
-    background-image: url(https://bit.ly/3m4Kl1t);
-    background-repeat: no-repeat;
-}
 body {
     background-color: rgb(104, 0, 9);
-}
-.navigation{
-    text-justify: auto;
 }
 body h5{
     background-image: url(./images/portrait-african-girl-writing-notebook);
