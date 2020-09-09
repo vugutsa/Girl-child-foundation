@@ -10,7 +10,7 @@ h2 {
     color: rgb(23, 23, 206)
 }
 body h3{
-    background-image: url(https://bit.ly/3inWFrL);
+    background-image: url(images/il_340x270.2142189201_5d4s.jpg);
     background-repeat: no-repeat;
     background-size:contain;
 }
@@ -27,4 +27,11 @@ body h5{
     background-image: url(./images/portrait-african-girl-writing-notebook);
     background-repeat: no-repeat;
 }
-
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
