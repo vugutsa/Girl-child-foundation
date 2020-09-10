@@ -1,44 +1,10 @@
-p{
-    color: black;
-    text-align: center;
-}
-body, html{
-    margin-block: 
-    padding: 
-}
-h2 {
-    color: rgb(23, 23, 206)
-}
-body h3{
-    background-image: url(images/il_340x270.2142189201_5d4s.jpg);
-    background-repeat: no-repeat;
-    background-size:contain;
-}
-Body h2 p{
-    color: black;
-}
-body h4{
-    font-size-adjust: 100px;
-}
 body {
     background-color: rgb(104, 0, 9);
 }
-body h5{
-    background-image: url(./images/portrait-african-girl-writing-notebook);
-    background-repeat: no-repeat;
-}
-nav{
-    display: flex;
-    justify-content: space-between;
-}
-ul{
-    display: flex;
-    list-style-type: none;
-}
-h6{
+h6 {
     font-weight: lighter;
     font-size: 80px;
-    color: #fff;
+    background-color: pink;
     text-align: center;
     padding-top: 50px;
     margin-bottom: 0;
