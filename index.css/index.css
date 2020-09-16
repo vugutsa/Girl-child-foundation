@@ -27,7 +27,7 @@ h6 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
+    width: 2000px;
     height: 400px;
 }
 
@@ -36,9 +36,6 @@ h1 {
 }
 #wrapper{
     text-align: center;
-}
-title{
-    text-decoration: underline;
 }
 .container, header {
     background-color: darkslategray;
@@ -54,6 +51,11 @@ title{
 .address {
     margin-right: 50px;
     margin-top: 10px;
+    color: white;
+    background-color: dimgray;
+    text-align: center;
+    width: 100%;
+    border-spacing: 15px;
 }
 #none{
     display: block;
@@ -61,11 +63,18 @@ title{
     margin-right: auto;
     width: 800px;
     height: 400px;
-    width: 800px;
-    height: 400px;
 }
 #parent {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+h2 {
+    text-align: center;
+}
+#child {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 }
